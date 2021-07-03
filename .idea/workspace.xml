@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ede86abc-b574-4cd7-82ce-96c9708af3b8" name="Default Changelist" comment="" />
+    <list default="true" id="ede86abc-b574-4cd7-82ce-96c9708af3b8" name="Default Changelist" comment="Changes in Code." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,12 +39,16 @@
       <updated>1625281133693</updated>
       <workItem from="1625281135271" duration="655000" />
       <workItem from="1625282235677" duration="30000" />
-      <workItem from="1625282326388" duration="147000" />
+      <workItem from="1625282326388" duration="703000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes in Code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in Code." />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625281715807">
